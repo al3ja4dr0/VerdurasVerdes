@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Verduras</string>
+    <string name="IMGButtonsiguiente">siguiente</string>
+    <string name="TV1">Primer Activity</string>
+    <string name="IMGButtonanterior">anterior</string>
+    <string name="BTNvolver">volver</string>
+    <string name="IMGButtoninicio">inicio</string>
+    <string name="EdiText1">costo de verduras</string>
+    <string name="EdiText2">total por hectarea</string>
+    <string name="BTNcalcular">calcular</string>
+    <string name="BTNlimpiar">limpiar</string>
+    <string name="TextView">resultado</string>
+</resources>
